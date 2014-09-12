@@ -14,7 +14,7 @@ h1.title {
 .positive:                        #008080 !default;
 */
 
-h2, h3, h4, h5, h6 {
+.splash {
   top:0;
   color: #fff;
   background-color: #43cee6;
